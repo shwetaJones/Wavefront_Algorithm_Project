@@ -14,4 +14,6 @@ The wavefront algorithm was initially proposed and created as an exact gap affin
 The Wavefront Algorithm for sequence alignment presents a fresh perspective by leveraging its efficient exploration strategy to navigate the space of possible alignments. Unlike conventional methods that compute alignment scores for all possible alignments in a matrix, the Wavefront Algorithm dynamically expands from an origin point, systematically exploring in a wave-like fashion in the alignment space. It dynamically adjusts the alignment path based on local similarities and differences between sequences.
 In this final project, we implement, explain, and evaluate the Wavefront Algorithm for sequence alignment. We aim to demonstrate its effectiveness in accurately aligning sequences while maintaining computational efficiency. Through experimentation and comparative analysis with traditional alignment algorithms, we seek to unveil the potential of the Wavefront Algorithm as a valuable tool in bioinformatics research and sequence analysis.
 
+<img width="574" alt="Screenshot 2024-06-14 at 12 20 44 PM" src="https://github.com/shwetaJones/Wavefront_Algorithm_Project/assets/66140791/272ad26b-91b0-4a44-ae49-e926f4f50a3e">
+
 **Link to Presentation Slides:** https://docs.google.com/presentation/d/1EIdQzFRV8Bvw3WYCRyEBJU_5q1sJ3XvzQNUvVfGktM8/edit?usp=sharing
