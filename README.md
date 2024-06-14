@@ -19,4 +19,6 @@ In this final project, we implement, explain, and evaluate the Wavefront Algorit
   <img width="854" alt="Screenshot 2024-06-14 at 12 22 32 PM" src="https://github.com/shwetaJones/Wavefront_Algorithm_Project/assets/66140791/407b6173-4bf1-4381-a854-4dfb2a23e445">
 </div>
 
-**Link to Presentation Slides:** https://docs.google.com/presentation/d/1EIdQzFRV8Bvw3WYCRyEBJU_5q1sJ3XvzQNUvVfGktM8/edit?usp=sharing
+**Final Report:** https://docs.google.com/document/d/1X9BcreVHEoC3sjHN0n-BKOPQaDuWsaCZq05D1cQ5ML8/edit?usp=sharing
+
+**Presentation Slides:** https://docs.google.com/presentation/d/1EIdQzFRV8Bvw3WYCRyEBJU_5q1sJ3XvzQNUvVfGktM8/edit?usp=sharing
